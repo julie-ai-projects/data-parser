@@ -1,0 +1,11 @@
+data-parser/
+│
+├── main.py
+├── parser.py
+├── analyzer.py
+├── requirements.txt
+├── README.md
+└── output/
+    ├── data.csv
+    ├── data.xlsx
+    └── charts/
